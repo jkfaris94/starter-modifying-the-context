@@ -1,6 +1,9 @@
+import { useContext } from "react";
 import Book from "./Book";
+import { BooksContext } from "../../contexts/BooksContext";
 
-function BooksList({ books }) {
+function BooksList() {
+  const books = useContext(BooksContext);
   const bookList = books.map((book) => <Book key={book.bookId} book={book} />);
   return (
     <div className="container mt-5">
