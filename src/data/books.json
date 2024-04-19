@@ -1,0 +1,452 @@
+[
+  {
+    "bookId": 1,
+    "genre": "Fiction",
+    "title": "Consectetur Tempor Reprehenderit est",
+    "synopsis": "Mollit laboris id enim culpa elit esse velit dolore duis anim exercitation mollit. Eu deserunt irure ad dolore cupidatat.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/nZyD0O/500/500",
+    "authorId": 5
+  },
+  {
+    "bookId": 2,
+    "genre": "Business",
+    "title": "Dolor Pariatur Eiusmod",
+    "synopsis": "Occaecat enim ex occaecat Lorem quis culpa ea tempor sit ipsum sit Lorem enim. Esse quis proident Lorem ullamco occaecat proident ut.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/DcvYKA/500/500",
+    "authorId": 1
+  },
+  {
+    "bookId": 3,
+    "genre": "Travel",
+    "title": "Amet Esse Excepteur",
+    "synopsis": "Commodo eiusmod consequat excepteur sint mollit ea irure cillum. Nostrud veniam est anim non et voluptate nostrud deserunt irure nisi quis incididunt proident. Officia non officia voluptate nisi commodo aute.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/fNl5rh/500/500",
+    "authorId": 23
+  },
+  {
+    "bookId": 4,
+    "genre": "Business",
+    "title": "Est Pariatur Tempor Sunt Occaecat",
+    "synopsis": "Qui et nulla dolor adipisicing labore ullamco. Dolor magna esse veniam Lorem elit.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/C8tJyy/500/500",
+    "authorId": 6
+  },
+  {
+    "bookId": 5,
+    "genre": "Self Help",
+    "title": "Fugiat Aute Quis Lorem Amet ea",
+    "synopsis": "Cupidatat nostrud tempor est id labore pariatur enim minim minim. Ut Lorem deserunt Lorem incididunt Lorem mollit velit ex.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/8quUiC/500/500",
+    "authorId": 14
+  },
+  {
+    "bookId": 6,
+    "genre": "Classics",
+    "title": "Pariatur in",
+    "synopsis": "Consectetur reprehenderit ex voluptate eu quis occaecat nostrud sunt dolore laborum aute irure. Laboris tempor voluptate ullamco dolore. Eiusmod sit aliqua exercitation cillum incididunt commodo commodo.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/w5s5Ew/500/500",
+    "authorId": 5
+  },
+  {
+    "bookId": 7,
+    "genre": "Romance",
+    "title": "Sunt sit Mollit ut Cupidatat",
+    "synopsis": "Aute aute nisi deserunt sint nostrud et. Nostrud ut eiusmod velit sint. Aliquip sint velit amet anim anim eu.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/7B0j5r/500/500",
+    "authorId": 10
+  },
+  {
+    "bookId": 8,
+    "genre": "Nonfiction",
+    "title": "Dolore Culpa Commodo Amet Proident",
+    "synopsis": "Ex anim elit ex cillum in esse deserunt labore amet officia non pariatur anim reprehenderit. Eu consequat Lorem dolore consequat sit. Sunt eiusmod ea Lorem aute dolor laboris ex eu magna cillum cupidatat.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/SKwqKi/500/500",
+    "authorId": 23
+  },
+  {
+    "bookId": 9,
+    "genre": "Nonfiction",
+    "title": "Cupidatat Cupidatat do Laboris",
+    "synopsis": "Sunt id duis ad labore deserunt sint. In laboris cupidatat voluptate aliqua aliquip aliqua irure sint quis aliqua pariatur fugiat duis eu. Ea dolor esse ut adipisicing irure sint officia elit veniam culpa est.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/nuMUbv/500/500",
+    "authorId": 3
+  },
+  {
+    "bookId": 10,
+    "genre": "Thriller",
+    "title": "Anim Eiusmod Lorem",
+    "synopsis": "Proident ex consequat dolore laborum adipisicing aute sit duis aliqua aliquip enim. Esse amet adipisicing velit deserunt cillum amet. Excepteur veniam eiusmod sit elit elit.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/bHLpVJ/500/500",
+    "authorId": 5
+  },
+  {
+    "bookId": 11,
+    "genre": "Mystery",
+    "title": "Non qui Velit Cillum Cupidatat Minim",
+    "synopsis": "Eu ad culpa fugiat ea irure ullamco ad officia reprehenderit. Eiusmod nostrud magna dolor consectetur amet adipisicing tempor minim anim officia esse voluptate pariatur nulla. Magna velit minim do aliquip elit enim ea consectetur elit.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/RIqiKX/500/500",
+    "authorId": 7
+  },
+  {
+    "bookId": 12,
+    "genre": "Travel",
+    "title": "Fugiat non",
+    "synopsis": "Id officia ipsum sit enim sint. Commodo magna enim adipisicing irure officia tempor cillum eiusmod. Culpa laborum nulla fugiat ea esse occaecat ullamco.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/fZnp9z/500/500",
+    "authorId": 14
+  },
+  {
+    "bookId": 13,
+    "genre": "Thriller",
+    "title": "Qui Aute Incididunt",
+    "synopsis": "Sit cupidatat velit exercitation qui Lorem nostrud amet consectetur dolor sint laboris proident. Veniam ipsum anim aliquip sit irure excepteur proident non aute dolor sunt consectetur veniam sit. Veniam et nisi quis excepteur eiusmod excepteur nostrud veniam exercitation officia minim.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/GEPNam/500/500",
+    "authorId": 1
+  },
+  {
+    "bookId": 14,
+    "genre": "Science",
+    "title": "Amet non",
+    "synopsis": "Velit esse excepteur nulla nisi aute exercitation in laboris proident. Reprehenderit minim eiusmod pariatur quis elit ad sint magna cillum incididunt nisi. Nisi anim ad exercitation aliqua duis occaecat in.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/jNyIef/500/500",
+    "authorId": 24
+  },
+  {
+    "bookId": 15,
+    "genre": "History",
+    "title": "Esse Proident Esse",
+    "synopsis": "Fugiat eiusmod enim aliqua ad ipsum non laboris laborum qui laboris dolor. Aliquip exercitation eiusmod quis velit ullamco esse excepteur Lorem consectetur pariatur magna.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/Vx71VY/500/500",
+    "authorId": 19
+  },
+  {
+    "bookId": 16,
+    "genre": "Biography",
+    "title": "Elit Nisi Magna eu Culpa Nulla",
+    "synopsis": "Veniam laborum nostrud tempor eiusmod. Nulla duis occaecat anim cupidatat ex sit deserunt.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/E1QLR2/500/500",
+    "authorId": 6
+  },
+  {
+    "bookId": 17,
+    "genre": "Science",
+    "title": "Cillum Incididunt Duis Fugiat Laborum",
+    "synopsis": "Non pariatur in aliqua adipisicing ipsum fugiat proident Lorem. Nisi minim consectetur aute exercitation tempor.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/sANFMP/500/500",
+    "authorId": 16
+  },
+  {
+    "bookId": 18,
+    "genre": "Historical Fiction",
+    "title": "Dolor Eiusmod Pariatur Lorem do Exercitation",
+    "synopsis": "Dolore irure culpa Lorem commodo esse irure tempor deserunt aliqua exercitation ullamco consequat. Ut adipisicing id sit nisi eu reprehenderit.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/aLd1Gn/500/500",
+    "authorId": 3
+  },
+  {
+    "bookId": 19,
+    "genre": "Science",
+    "title": "Eiusmod Veniam Aute",
+    "synopsis": "Occaecat dolore occaecat qui ea eu culpa ea proident veniam cillum ipsum fugiat. Nulla cillum consectetur sint sint non eu velit excepteur ipsum officia aute tempor.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/r8bFSH/500/500",
+    "authorId": 12
+  },
+  {
+    "bookId": 20,
+    "genre": "Comics",
+    "title": "Consectetur Laborum",
+    "synopsis": "Eiusmod aliqua cupidatat exercitation voluptate pariatur nulla commodo. Pariatur non culpa pariatur laborum exercitation labore do ex elit reprehenderit eu. Anim magna incididunt reprehenderit sint aliqua qui sit nulla ea proident.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/VdVKPy/500/500",
+    "authorId": 20
+  },
+  {
+    "bookId": 21,
+    "genre": "Self Help",
+    "title": "Deserunt Laborum ea",
+    "synopsis": "Ex tempor cillum fugiat nulla laborum et in anim. Officia incididunt incididunt laborum id elit. Fugiat laboris consequat aliqua in et sunt amet sunt cupidatat.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/d2xHgi/500/500",
+    "authorId": 4
+  },
+  {
+    "bookId": 22,
+    "genre": "Music",
+    "title": "Elit Fugiat",
+    "synopsis": "Aliquip reprehenderit proident reprehenderit cillum in elit irure sunt consequat. Nostrud ut magna qui ad ad veniam nostrud duis fugiat. Non tempor incididunt eiusmod culpa culpa aliquip eu.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/Gd5C9U/500/500",
+    "authorId": 24
+  },
+  {
+    "bookId": 23,
+    "genre": "Historical Fiction",
+    "title": "Sint Sint Culpa",
+    "synopsis": "Velit veniam eiusmod non tempor dolore magna Lorem esse cillum sunt adipisicing ex laborum. Magna esse fugiat incididunt sunt id. Ullamco commodo exercitation sit dolor aute Lorem esse laboris aliquip.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/tueRXP/500/500",
+    "authorId": 25
+  },
+  {
+    "bookId": 24,
+    "genre": "Music",
+    "title": "Lorem Proident Ullamco Excepteur Aliquip Dolore",
+    "synopsis": "Consectetur dolore eu veniam et laborum nostrud fugiat amet. Duis minim amet do eu reprehenderit id consequat esse quis. Laborum officia veniam et aliqua mollit dolore qui laborum id sint adipisicing id.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/f1F8Te/500/500",
+    "authorId": 19
+  },
+  {
+    "bookId": 25,
+    "genre": "Cookbooks",
+    "title": "Consectetur Aliqua Commodo Magna Minim Reprehenderit",
+    "synopsis": "Fugiat incididunt cupidatat veniam culpa fugiat. Dolore reprehenderit Lorem cillum do duis enim Lorem. Et anim ad veniam quis dolore est nostrud.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/kTDc5t/500/500",
+    "authorId": 9
+  },
+  {
+    "bookId": 26,
+    "genre": "Fiction",
+    "title": "Voluptate Mollit Voluptate Culpa",
+    "synopsis": "Nostrud dolor velit dolore nostrud aute nulla exercitation. Proident voluptate qui ipsum in magna nostrud nulla in do. Ad sunt magna voluptate deserunt labore magna nostrud elit non proident reprehenderit consequat nulla excepteur.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/JjeleV/500/500",
+    "authorId": 7
+  },
+  {
+    "bookId": 27,
+    "genre": "Psychology",
+    "title": "Ut Mollit in Laboris Aute",
+    "synopsis": "Aute ipsum aliqua labore mollit officia qui occaecat laborum aliqua tempor commodo. Fugiat culpa adipisicing laboris laborum elit qui duis sunt. Commodo ullamco id velit Lorem.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/LhXOsf/500/500",
+    "authorId": 17
+  },
+  {
+    "bookId": 28,
+    "genre": "Comics",
+    "title": "Dolore Sint est Sint Commodo ad",
+    "synopsis": "Ipsum nostrud cillum ullamco commodo amet exercitation ex culpa adipisicing cillum consequat cillum exercitation. Laborum aliquip occaecat enim proident elit excepteur eu duis magna laborum reprehenderit adipisicing.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/nWeEQu/500/500",
+    "authorId": 1
+  },
+  {
+    "bookId": 29,
+    "genre": "Graphic Novels",
+    "title": "Non Voluptate et Aliquip Duis est",
+    "synopsis": "Veniam Lorem non laborum et dolore est dolore veniam enim aliquip dolore. Ullamco dolore et do nulla mollit minim adipisicing. Exercitation aliqua reprehenderit eiusmod cillum ut Lorem veniam proident commodo laborum.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/4mK0rh/500/500",
+    "authorId": 20
+  },
+  {
+    "bookId": 30,
+    "genre": "Classics",
+    "title": "Irure id Incididunt in Minim",
+    "synopsis": "Ut consectetur sunt dolor labore Lorem cupidatat eiusmod. Aliquip officia ad voluptate irure excepteur sit nulla.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/umamHz/500/500",
+    "authorId": 11
+  },
+  {
+    "bookId": 31,
+    "genre": "Horror",
+    "title": "Aliqua est qui non eu Anim",
+    "synopsis": "Amet proident aliquip deserunt sint labore eiusmod eu fugiat deserunt adipisicing esse sunt ea. Ad et est sit labore sunt aliqua nostrud culpa voluptate proident nulla in ex dolore.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/z1dGY9/500/500",
+    "authorId": 15
+  },
+  {
+    "bookId": 32,
+    "genre": "Sports",
+    "title": "Ad Irure",
+    "synopsis": "Lorem consectetur dolore culpa consequat. Proident occaecat veniam cupidatat laborum deserunt nulla dolore aliqua commodo amet ex. Quis ipsum veniam mollit irure deserunt enim eiusmod dolore.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/Sf0XDZ/500/500",
+    "authorId": 21
+  },
+  {
+    "bookId": 33,
+    "genre": "Nonfiction",
+    "title": "Minim Elit in",
+    "synopsis": "Quis voluptate officia exercitation culpa magna sint fugiat pariatur adipisicing non dolore minim laboris. Occaecat proident quis aliqua ad labore pariatur irure ea magna Lorem voluptate nisi minim excepteur.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/mskQko/500/500",
+    "authorId": 7
+  },
+  {
+    "bookId": 34,
+    "genre": "Fantasy",
+    "title": "Eu Elit",
+    "synopsis": "Magna eu id commodo dolore in non aliquip sunt voluptate. Cillum proident do aliquip reprehenderit exercitation officia cupidatat et dolor non.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/ErYIOL/500/500",
+    "authorId": 3
+  },
+  {
+    "bookId": 35,
+    "genre": "Classics",
+    "title": "Ea Pariatur Sunt Tempor Cupidatat",
+    "synopsis": "Nulla id sit mollit duis cillum. Aute eiusmod ex ea quis nulla elit non minim.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/QZtGmX/500/500",
+    "authorId": 11
+  },
+  {
+    "bookId": 36,
+    "genre": "Romance",
+    "title": "Amet Aliqua Tempor Consequat",
+    "synopsis": "Aute proident aliqua nostrud amet nisi culpa do. Ut tempor proident mollit consequat tempor adipisicing tempor in reprehenderit ullamco sint est. Nostrud laboris fugiat sit magna in voluptate reprehenderit reprehenderit deserunt.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/0hY7d9/500/500",
+    "authorId": 4
+  },
+  {
+    "bookId": 37,
+    "genre": "Music",
+    "title": "Irure Tempor Dolore Nisi non",
+    "synopsis": "Ea elit nostrud esse eu fugiat aliquip nulla in velit irure nisi ex minim nisi. Culpa elit deserunt voluptate ut aliquip adipisicing mollit. Nostrud aute tempor ullamco esse duis est elit eu magna laboris et aliqua.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/W0rSOe/500/500",
+    "authorId": 3
+  },
+  {
+    "bookId": 38,
+    "genre": "History",
+    "title": "Esse Incididunt Dolor Nisi Eiusmod",
+    "synopsis": "Esse incididunt qui ea irure sint amet cillum. Consectetur nostrud incididunt officia sint. Nisi duis reprehenderit mollit aliqua.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/JrP3h9/500/500",
+    "authorId": 14
+  },
+  {
+    "bookId": 39,
+    "genre": "Psychology",
+    "title": "Dolor Officia Exercitation Amet id Amet",
+    "synopsis": "Non velit anim do pariatur esse nulla et ad commodo aliqua labore veniam nostrud ex. Duis quis reprehenderit labore sunt reprehenderit non proident cillum. Nisi incididunt non mollit ut reprehenderit incididunt elit tempor excepteur anim cupidatat duis exercitation.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/oRRERZ/500/500",
+    "authorId": 9
+  },
+  {
+    "bookId": 40,
+    "genre": "Historical Fiction",
+    "title": "Occaecat eu Commodo Quis id",
+    "synopsis": "Officia elit ullamco ullamco id ipsum ex est reprehenderit enim amet enim. Magna cillum consequat consequat do Lorem anim ad do quis ipsum magna et.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/4Z6CaP/500/500",
+    "authorId": 24
+  },
+  {
+    "bookId": 41,
+    "genre": "Historical Fiction",
+    "title": "Minim Adipisicing id Proident",
+    "synopsis": "Aliquip voluptate sunt proident adipisicing. Cillum anim quis magna id id ullamco aliquip ad enim sint elit esse elit.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/MEo5et/500/500",
+    "authorId": 8
+  },
+  {
+    "bookId": 42,
+    "genre": "Classics",
+    "title": "Ad Proident Excepteur",
+    "synopsis": "Ea cupidatat laborum proident sunt sint magna eu exercitation. Adipisicing voluptate Lorem fugiat magna elit nostrud deserunt in fugiat aliquip magna enim dolore.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/5Jz45c/500/500",
+    "authorId": 6
+  },
+  {
+    "bookId": 43,
+    "genre": "Historical Fiction",
+    "title": "Ipsum Officia ex Irure Labore Ipsum",
+    "synopsis": "Ex fugiat ea sit Lorem do eiusmod qui ipsum id qui culpa. Excepteur ut sit enim ea anim aliquip minim mollit.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/xSPj5B/500/500",
+    "authorId": 25
+  },
+  {
+    "bookId": 44,
+    "genre": "Thriller",
+    "title": "Sunt Lorem Aute ut Elit Nostrud",
+    "synopsis": "Fugiat ipsum commodo non labore Lorem ea sunt ex excepteur. Labore ullamco excepteur sit velit in consectetur culpa occaecat voluptate eu Lorem anim officia nulla.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/MDfDiN/500/500",
+    "authorId": 20
+  },
+  {
+    "bookId": 45,
+    "genre": "Memoir",
+    "title": "In Excepteur",
+    "synopsis": "Nisi laborum minim nostrud Lorem ipsum excepteur eiusmod labore. Tempor duis pariatur tempor reprehenderit et laborum anim ea cupidatat nulla.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/UFYuZy/500/500",
+    "authorId": 24
+  },
+  {
+    "bookId": 46,
+    "genre": "Self Help",
+    "title": "Aliqua Irure Esse Ullamco",
+    "synopsis": "Sunt velit non ut reprehenderit veniam amet qui sint enim do dolor eiusmod occaecat. Officia ea fugiat nulla adipisicing ullamco minim nulla est voluptate Lorem mollit voluptate minim.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/hqfwzT/500/500",
+    "authorId": 13
+  },
+  {
+    "bookId": 47,
+    "genre": "Business",
+    "title": "Adipisicing Excepteur do id",
+    "synopsis": "Quis exercitation reprehenderit sit culpa eu adipisicing tempor aute velit sunt anim. Ad excepteur fugiat velit ut ea adipisicing ex.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/ywjdXK/500/500",
+    "authorId": 16
+  },
+  {
+    "bookId": 48,
+    "genre": "Nonfiction",
+    "title": "Ipsum Veniam Adipisicing Eiusmod Fugiat",
+    "synopsis": "Deserunt cupidatat sunt tempor eiusmod et mollit. Id aute duis est veniam incididunt elit dolore incididunt aliquip mollit eu sit sint. Officia tempor quis tempor ipsum officia.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/KHMjph/500/500",
+    "authorId": 16
+  },
+  {
+    "bookId": 49,
+    "genre": "Travel",
+    "title": "Quis Officia ex ea",
+    "synopsis": "Ad consectetur sint minim sunt. Sint commodo cillum irure aliquip esse deserunt irure duis irure.",
+    "borrowed": false,
+    "image": "https://picsum.photos/seed/vnnoYl/500/500",
+    "authorId": 25
+  },
+  {
+    "bookId": 50,
+    "genre": "Memoir",
+    "title": "Veniam Irure",
+    "synopsis": "Eiusmod nisi cillum do deserunt voluptate eu enim. Ipsum ad veniam nostrud quis irure reprehenderit minim.",
+    "borrowed": true,
+    "image": "https://picsum.photos/seed/nO6ptu/500/500",
+    "authorId": 23
+  }
+]

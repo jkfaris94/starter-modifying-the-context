@@ -1,24 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from "./components/common/Header";
+import BooksList from "./components/Books/BooksList";
+
+import { BorrowedBooksCountContext } from "./contexts/BorrowedBooksCountContext";
+import booksData from "./data/books.json";
 
 function App() {
+  const borrowedCount = booksData.filter((book) => book.borrowed).length;
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BorrowedBooksCountContext.Provider value={borrowedCount}>
+      <Header booksLength={booksData.length} />
+      <BooksList books={booksData} />
+    </BorrowedBooksCountContext.Provider>
   );
 }
 
