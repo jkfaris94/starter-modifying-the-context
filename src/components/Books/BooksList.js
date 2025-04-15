@@ -1,9 +1,11 @@
-import { useContext } from "react";
+import { useContext, useState } from "react";
 import Book from "./Book";
 import { BooksContext } from "../../contexts/BooksContext";
 
 function BooksList() {
-  const books = useContext(BooksContext);
+  const booksContext = useContext(BooksContext);
+  const [books, setBooks] = useState(booksContext);
+  
   const bookList = books.map((book) => <Book key={book.bookId} book={book} />);
   return (
     <div className="container mt-5">
@@ -15,3 +17,4 @@ function BooksList() {
 }
 
 export default BooksList;
+ 
