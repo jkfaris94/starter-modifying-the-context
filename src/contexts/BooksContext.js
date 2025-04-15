@@ -2,7 +2,7 @@ import { createContext, useState } from "react";
 
 export const BooksContext = createContext({
     books: [],
-    setBooks: () = {},
+    setBooks: () => {},
 });
 
 export function BooksContextProvider({ initialData, children }) {
