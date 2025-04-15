@@ -1,10 +1,10 @@
-import { useContext, useState } from "react";
+import { useContext } from "react";
 import Book from "./Book";
 import { BooksContext } from "../../contexts/BooksContext";
 
 function BooksList() {
-  const booksContext = useContext(BooksContext);
-  const [books, setBooks] = useState(booksContext);
+  const {books, setBooks} = useContext(BooksContext);
+  
 
     //This component will update a book to have its borrowed attribute set to true.
     const handleReserveButton = (bookId) => {

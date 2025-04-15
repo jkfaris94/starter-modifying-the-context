@@ -2,7 +2,7 @@ import { useContext } from "react";
 import { BooksContext } from "../../contexts/BooksContext";
 
 function Header() {
-  const books = useContext(BooksContext);
+  const { books } = useContext(BooksContext);
   const reserved = books.filter((book) => book.borrowed).length;
 
   return (

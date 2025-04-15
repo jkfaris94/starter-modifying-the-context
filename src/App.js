@@ -1,7 +1,6 @@
 import Header from "./components/common/Header";
 import BooksList from "./components/Books/BooksList";
 import { BooksContextProvider } from "./contexts/BooksContext";
-import { BooksContext } from "./contexts/BooksContext";
 import booksData from "./data/books.json";
 
 function App() {
